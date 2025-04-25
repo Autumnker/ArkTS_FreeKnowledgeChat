@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/startPage/RegisterPage",
+    "pages/startPage/LoginPage",
+    "pages/mainPages/Main",
+    "commonViews/exit",
+    "commonViews/chatPage",
+    "commonViews/searchFriend",
+    "components/find/Monents/moments"
+  ]
+}
